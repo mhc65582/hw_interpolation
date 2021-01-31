@@ -1,7 +1,32 @@
 %interpolation -- fill in this program to complete homework 2
 clear all; help interpolation;
 
-%% Problem 1
+%% Tutorial 2 exercise: for loops
+% Make the surface plot described in 3.1.1
+% If your in-class work is stored in your partner's repository, add a 
+% display statement here to tell us your partner's name. 
+
+
+%% Tutorial 2 exercise: while loops
+% Use a while loop with random numbers as described in 3.1.2
+
+
+%% Tutorial 2 exercise: if-then-else statements
+% Use if-then-else blocks to vary plot style as described in 3.1.3
+
+
+%% Tutorial 2 exercise: Lagrange polynomials
+% Calculate and plot the derivative of the Lagrange polynominal, using
+% interp.m and intrpf.m as described in 3.2
+
+
+%% Tutorial 2 exericse: finding roots
+% Write the function qroots described at the end of section 3.2 and call 
+% it here. 
+
+
+
+%% HW Problem 1
 % A simple population growth model for some species can be
 % approximated with the logistic equation
 %
@@ -25,7 +50,7 @@ clear all; help interpolation;
 
 pause;
 clear all;
-%% Problem 2
+%% HW Problem 2
 % Consider the following compounding interest formula')
 %
 % $$I = V\frac{R/100}{k}$$
@@ -48,7 +73,7 @@ clear all;
 
 pause;
 clear all;
-%% Problem 3
+%% HW Problem 3
 % Numerical derivative of $f = x*cos(x)$.
 % 
 % * Calculate $f$ for |x = 0:pi/20:3*pi|.
@@ -67,7 +92,7 @@ clear all;
 
 pause;
 clear all;
-%% Problem 4
+%% HW Problem 4
 % Modify the interpolation program (|interp.m| and |intrpf.m|)
 % to evaluate a Lagrange polynomial for any number of ($x,y$) pairs.
 % Prompt the user to enter the number of points (|num|) and the
