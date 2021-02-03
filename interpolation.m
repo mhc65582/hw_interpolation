@@ -19,6 +19,8 @@ clear all; help interpolation;
 % Calculate and plot the derivative of the Lagrange polynominal, using
 % interp.m and intrpf.m as described in 3.2
 
+disp('Nothing to see here, look at interp.m and intrpf.m!')
+
 
 %% Tutorial 2 exericse: finding roots
 % Write the function qroots described at the end of section 3.2 and call 
@@ -43,12 +45,14 @@ clear all; help interpolation;
 % * Consider population growth parameters of $\rho$ = 0.7, 1.4, 2.8,
 % 3.1, 3.5, 3.7.
 % * Generate graphs of $x_n$ versus $n$ for each growth parameter
-% with $n$ = 0, 1, … , 50.
+% with $n$ = 0, 1, ... , 50.
 % * Use the |subplot| command to graph each case in a separate subplot.
 % * Use |num2str| along with |legend| to produce a legend in each
 % subplot identifying the growth parameter value.
 
-pause;
+
+
+
 clear all;
 %% HW Problem 2
 % Consider the following compounding interest formula')
@@ -71,7 +75,10 @@ clear all;
 % * Plot the growth in the investment versus time for each case
 % on a single plot. Be careful that the time scales are consistent. 
 
-pause;
+
+
+
+
 clear all;
 %% HW Problem 3
 % Numerical derivative of $f = x*cos(x)$.
@@ -90,7 +97,9 @@ clear all;
 % * In a separate figure, plot the difference between the numerical
 % and exact values for the derivative.
 
-pause;
+
+
+
 clear all;
 %% HW Problem 4
 % Modify the interpolation program (|interp.m| and |intrpf.m|)
@@ -102,6 +111,8 @@ clear all;
 % ($x,y$) pairs: (0,1), (1,0), (3,4), (5,3).
 
 
-pause;
+
+
+
 clear all;
 
