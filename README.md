@@ -7,12 +7,23 @@ Homework for Garcia 1.2-1.4, functions/interpolation/etc
 
 <div>
 
+*   [Tutorials](#1)
 *   [Problem 1](#2)
 *   [Problem 2](#3)
 *   [Problem 3](#4)
 *   [Problem 4](#5)
 
 </div>
+
+## Tutorial 2 Exercises<a name="1"></a>
+
+For your in-class work, read tutorial 2 and complete the items marked as "Exercise":
+
+ * For loops
+ * While loops
+ * If/else statements
+ * Lagrange polynomial function
+ * Writing a new function
 
 ## Problem 1<a name="2"></a>
 
