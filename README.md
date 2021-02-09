@@ -17,13 +17,15 @@ Homework for Garcia 1.2-1.4, functions/interpolation/etc
 
 ## Tutorial 2 Exercises<a name="1"></a>
 
-For your in-class work, read tutorial 2 and complete the items marked as "Exercise":
+For your in-class work, read tutorial 2 and complete the items marked as "Exercise". You'll be working with `interpolation.m`
 
  * For loops
  * While loops
  * If/else statements
  * Lagrange polynomial function
  * Writing a new function
+
+The problems below are homework -- continue editing `interpolation.m` as you solve these problems.
 
 ## Problem 1<a name="2"></a>
 
