@@ -17,9 +17,7 @@ for i=1:nplot
   xi(i) = xr(1) + (xr(2)-xr(1))*(i-1)/(nplot-1);
   yi(i) = intrpf(xi(i),x,y); % Use intrpf function to interpolate
   
-  %slope = (yi(i)-yi(i-1))/(xi(i) -xi(i-1));
-  %display(slope)
-  %was an idea
+  slop
 end
 
 %% * Plot the curve given by (xi,yi) and mark original data points
